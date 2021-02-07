@@ -53,3 +53,7 @@
   - DevOps, Key Vault, Monitor, Automation, etc.
 - No data storage persistence  
   - You need to persist data at an end state  
+
+---  
+
+**Module Two lecture two**

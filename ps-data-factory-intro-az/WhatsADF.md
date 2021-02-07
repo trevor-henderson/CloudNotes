@@ -44,3 +44,7 @@
   - In ADF
     - Can do either ELT/ETL
     - Third party services to aid in translation/aggregation
+
+---  
+
+**Module 2 Lecture 1**
