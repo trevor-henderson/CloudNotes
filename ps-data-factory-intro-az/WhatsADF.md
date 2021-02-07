@@ -1,6 +1,16 @@
 # Understanding Azure Data Factory  
 
-Legend  
+## Last Edited `02/07/2021`
+
+---  
+
+## Notes' Author List
+
+1. [Trevor Henderson](https://github.com/trevor-henderson)
+
+---  
+
+## Notable Definitions (Legend)  
 
 | Term | expanded name | Meaning |  
 |------|---------------|---------|
@@ -9,6 +19,7 @@ Legend
 | `ETL` | Extract Translate Load | Pattern for handling data flowing through a pipeline |  
 | `ELT` | Extract Load Translate | Pattern for handling data flowing through a pipeline |  
 
+---  
 
 ## So ... uh ... what is Azure Data Factory?  
 
