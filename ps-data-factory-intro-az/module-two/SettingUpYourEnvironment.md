@@ -1,4 +1,13 @@
 # Setting up the environment for this course  
+## Last Edited `02/07/2021`
+
+---  
+
+## Notes' Author List
+
+1. [Trevor Henderson](https://github.com/trevor-henderson)
+
+---  
 
 ## Steps
 1. Create a `Storage Resource`  
