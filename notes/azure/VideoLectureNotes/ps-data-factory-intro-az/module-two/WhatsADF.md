@@ -23,10 +23,11 @@
 
 ## So ... uh ... what is Azure Data Factory?  
 
-- Before answering that Why us ADF?
-  - due to Variety, Velocity, and volume of data Data insights 
-    are a necessity for keeping a competitive edge  
-  - ADF is MS main data engineering tool
+- Before answering that _why use ADF_?
+  - due to Variety, Velocity, and Volume of Data, Data Insights 
+    are a necessity for keeping a competitive edge 
+  - ADF is MS's main data engineering tool
+    - _NOTE:_ Azure Durable Functions are worth exploring and understanding if interested in a Azure Functions based pipeline as well.
     
 - ADF
   - PaaS Solution  
