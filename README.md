@@ -7,7 +7,7 @@ The intent for this repository is to act as a hub for notes
 taken while going through study materials for various Cloud Technologies and Platforms  
 
 ## Contribution  
-Have notes you would find valuable or see something that needs correcting? Feel free to open a PR to add your content 
+Have notes you would find valuable or see something that needs correction? Feel free to open a PR to add your content 
 and add me as a reviewer.  
 
 ## Repository Structure  
